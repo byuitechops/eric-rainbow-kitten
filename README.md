@@ -1,18 +1,18 @@
-#Kitten Code
-##Description
+# Kitten Code
+## Description
 This html will add a gif of a flying kitten with a rainbow behind it.
 
-##How to Install
-Standard Install
+## How to Install
+**Standard Install**
 
-1. Clone this repository:
+Clone this repository:
 
 git clone https://github.com/byuitechops/eric-rainbow-kitten.git
 Step into the folder that was just created
 
 cd eric-rainbow-kitten
 
-1. How to Use
+## How to Use
 
 Add this div to your html file and poof, it will add the rainbow-kitten gif to your page.
 ```HTML
